@@ -1,4 +1,4 @@
 # [CS50 AP]({{ "/" | relative_url }})
 
-Harvard University\\
-2018–2019
+Hawaii University at Minoa\\
+2019–2020
